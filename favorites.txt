@@ -1,3 +1,6 @@
 Comida fav 1;
 Comida fav 2;
 Comida fav 3;
+Filme fav 1
+Filme fav 2
+Filme fav 3
